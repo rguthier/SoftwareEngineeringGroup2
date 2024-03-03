@@ -1,5 +1,5 @@
 # SoftwareEngineeringGroup2
-
+Towson shuttle web application
 @Authors
   George Bishop
   Reese Guthier
